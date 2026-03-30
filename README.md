@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bomen-ulrich
-- 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on Devops projects
+- 👀 I’m interested in QA and DevOps
+- 🌱 I’m currently learning related tools
+- 💞️ I’m looking to collaborate and open for jobs
 - 📫 How to reach me bomen.u@outlook.fr or a call to 00237691172899
 
 <!---
